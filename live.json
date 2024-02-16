@@ -1,7 +1,7 @@
 {
     "lives": [{
         "name":"本地",
-        "url":"http://192.168.31.33:5050/iptv.txt"
+        "url":"http://alarm:5050/iptv.txt"
     },{
         "name":"俊于",
         "url":"http://home.jundie.top:81/top98.json"
